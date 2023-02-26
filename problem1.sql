@@ -1,0 +1,1 @@
+ALTER TABLE site_user ADD "LASTNAME" varchar(100);
